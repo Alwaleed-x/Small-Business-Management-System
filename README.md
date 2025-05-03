@@ -57,8 +57,7 @@ This system was developed as part of a university course at the University of Ta
 ## 🙋‍♂️ Contributor
 
 **Alwaleed Shami Al-Shammari**  
-University of Tabuk  
-Supervised by Dr. Awad Muhammad
+University of Tabuk
 
 ---
 
